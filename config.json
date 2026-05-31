@@ -1,9 +1,9 @@
 {
-    "TOKEN": "",
-    "APP_ID": "",
-    "GUILD_ID": "",
+    "TOKEN": "MTUxMDU2NzkyNDc0NDg1MTY0Ng.GsZ1XY.bdNsnNZ4CRNXd8FrK8eV444_wIVSSXS2KclkHI",
+    "APP_ID": "1510567924744851646",
+    "GUILD_ID": "1510535981684625418",
     "MONGOURL": "",
-    "PREFIX": "$",
+    "PREFIX": "-",
     "DOCK_API": "",
     "ERLC_SERVER_KEY": "",
     "APPLICATION_CHANNEL_ID": "",
